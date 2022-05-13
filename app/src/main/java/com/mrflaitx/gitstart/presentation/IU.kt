@@ -4,4 +4,5 @@ class IU {
     private var adilet = ""
     fun context(message: String) {
     }
+    var oroz = ""
 }
